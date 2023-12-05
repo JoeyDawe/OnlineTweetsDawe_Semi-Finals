@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">onlinetweetsdawe</string>
+    <string name="enter_your_tweet">Enter your tweet</string>
+    <string name="edit_your_tweet">Edit your tweet</string>
+    <string name="this_is_an_edited_tweet">This is an edited tweet</string>
+    <string name="edit">Edit</string>
+    <string name="new_tweet">New Tweet</string>
+</resources>
